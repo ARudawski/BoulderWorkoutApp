@@ -1,4 +1,4 @@
-package com.example.mykotlinapp
+package com.example.boulderworkoutapp
 
 import android.os.Bundle
 import android.widget.ToggleButton

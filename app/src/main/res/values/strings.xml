@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyKotlinApp</string>
+    <string name="app_name">BoulderWorkoutApp</string>
     <string name="title_activity_settings">SettingsActivity</string>
 
     <!-- Preference Titles -->

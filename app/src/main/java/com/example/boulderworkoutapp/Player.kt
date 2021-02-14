@@ -1,4 +1,4 @@
-package com.example.mykotlinapp
+package com.example.boulderworkoutapp
 
 data class Player ( val name: String,
                     val id: Int,

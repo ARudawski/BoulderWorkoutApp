@@ -1,4 +1,4 @@
-package com.example.mykotlinapp
+package com.example.boulderworkoutapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

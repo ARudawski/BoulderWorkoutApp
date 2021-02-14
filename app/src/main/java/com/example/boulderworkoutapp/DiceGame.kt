@@ -1,4 +1,4 @@
-package com.example.mykotlinapp
+package com.example.boulderworkoutapp
 
 import android.annotation.SuppressLint
 import android.content.Context

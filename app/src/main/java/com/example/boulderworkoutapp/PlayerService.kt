@@ -1,4 +1,4 @@
-package com.example.mykotlinapp
+package com.example.boulderworkoutapp
 
 class PlayerService {
     var myPlayers = mutableSetOf<Player>()
